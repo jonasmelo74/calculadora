@@ -1,5 +1,5 @@
 # Calculadora Mobile
 
 ## Sobre o projeto
-O projeto foi desenvolvido em Java, com a IDE "Android Studio".
-Foi um dos meus primeiros contatos com a tecnologia, portanto não priorizei a aparência mas sim a funcionalidade.
+
+Este projeto foi desenvolvido em Java utilizando a IDE Android Studio como parte de um trabalho acadêmico. O objetivo principal foi aplicar conceitos básicos de desenvolvimento mobile, criando uma calculadora totalmente funcional. O foco esteve na implementação lógica e no aprendizado das ferramentas e recursos do Android, garantindo uma base sólida para projetos futuros.
